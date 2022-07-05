@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/Kangbeom-Kim/plguin-test
 
 go 1.16
 
